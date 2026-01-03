@@ -1,0 +1,2404 @@
+{
+  "idioms": [
+    {
+      "id": 1,
+      "expression": "Play it by ear",
+      "example": "I didn't plan my speech; I will just play it by ear.",
+      "meaning": "臨機応変にやる、出たとこ勝負でいく",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 2,
+      "expression": "Read between the lines",
+      "example": "His email sounded polite, but if you read between the lines, he's not happy with the changes.",
+      "meaning": "行間を読む、言外の意味を汲み取る",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 3,
+      "expression": "A blessing in disguise",
+      "example": "Losing a job felt terrible, but it was a blessing in disguise; I found something better.",
+      "meaning": "不幸中の幸い、一見悪そうに見えて実は良いこと",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 4,
+      "expression": "Throw someone under the bus",
+      "example": "She threw me under the bus in the meeting to look good in front of the manager.",
+      "meaning": "（保身のために）人を犠牲にする、裏切る",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 5,
+      "expression": "Easier said than done",
+      "example": "Starting a fitness routine is easier said than done, especially with a busy schedule.",
+      "meaning": "言うは易く行うは難し",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 6,
+      "expression": "In a nutshell",
+      "example": "In a nutshell, we ran out of time and didn't finish the project.",
+      "meaning": "簡潔に言えば、要するに",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 7,
+      "expression": "The last straw",
+      "example": "I was already stressed and then the power went out; that was the last straw.",
+      "meaning": "我慢の限界（を超えさせる出来事）",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 8,
+      "expression": "Steal someone's thunder",
+      "example": "I announced my engagement, but then she shared her pregnancy news and stole my thunder.",
+      "meaning": "人のお株を奪う、手柄を横取りする、出し抜く",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 9,
+      "expression": "Hit the hay / Hit the sack",
+      "example": "After a long day at work, I can't wait to hit the hay and get some good sleep.",
+      "meaning": "寝る、床に就く",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 10,
+      "expression": "Bite the bullet",
+      "example": "I decided to bite the bullet and take the exam despite feeling unprepared.",
+      "meaning": "（嫌なことや困難を）我慢してやる、歯を食いしばって耐える",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 11,
+      "expression": "Under the weather",
+      "example": "I won't be able to make it to the party tonight; I'm feeling a bit under the weather.",
+      "meaning": "具合が悪い、体調が優れない",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 12,
+      "expression": "Sit tight",
+      "example": "Sit tight while I go see if Mr. Henkel is ready to see you.",
+      "meaning": "（動かずに）じっと待つ、我慢強く待つ",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 13,
+      "expression": "Ring a bell",
+      "example": "The title of that movie rings a bell, but I can't for the life of me remember who directed it.",
+      "meaning": "ピンとくる、聞き覚えがある",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 14,
+      "expression": "Blow off steam",
+      "example": "After a week of intense exams, most students head to the park to play soccer and blow off some steam.",
+      "meaning": "鬱憤を晴らす、ストレスを発散する",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 15,
+      "expression": "Cut to the chase",
+      "example": "Let's cut to the chase and address the main issues during the meeting.",
+      "meaning": "要点に入る、本題に入る",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 16,
+      "expression": "Piece of cake",
+      "example": "I expected the English test to be difficult, but it was a piece of cake.",
+      "meaning": "朝飯前、とても簡単なこと",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 17,
+      "expression": "Spill the beans",
+      "example": "Don't spill the beans about the surprise party!",
+      "meaning": "秘密を漏らす、うっかりしゃべる",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 18,
+      "expression": "Break the ice",
+      "example": "He told a joke to break the ice at the meeting.",
+      "meaning": "（初対面などの）緊張をほぐす、場を和ませる",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 19,
+      "expression": "Go cold turkey",
+      "example": "I quit smoking cold turkey and never felt the need to go back.",
+      "meaning": "（悪い習慣などを）きっぱりとやめる",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 20,
+      "expression": "Cost an arm and a leg",
+      "example": "Going on that luxury vacation would be amazing, but it would cost an arm and a leg.",
+      "meaning": "非常に高くつく、莫大な費用がかかる",
+      "category": "Daily Conversation",
+      "session": 1
+    },
+    {
+      "id": 21,
+      "expression": "Face the music",
+      "example": "You failed because you didn't study, so you need to face the music and take the class again.",
+      "meaning": "（自分の招いた）報いを受ける、現実を受け止める",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 22,
+      "expression": "Keep your chin up",
+      "example": "I know it's hard having a sick family member, but keep your chin up.",
+      "meaning": "元気を出す、くじけないでいる",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 23,
+      "expression": "Once in a blue moon",
+      "example": "She only comes to visit once in a blue moon.",
+      "meaning": "ごく稀に、めったにない",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 24,
+      "expression": "Hang in there",
+      "example": "The early stages of a new job can be tough, but if you hang in there, it will soon get easier.",
+      "meaning": "（困難な状況で）あきらめずに頑張る、持ちこたえる",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 25,
+      "expression": "Out of the blue",
+      "example": "She quit her job out of the blue.",
+      "meaning": "突然に、予告なしに",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 26,
+      "expression": "Pull someone's leg",
+      "example": "Don't worry, I'm just pulling your leg; I didn't really sell your bike.",
+      "meaning": "（冗談で）人をからかう",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 27,
+      "expression": "Speak of the devil",
+      "example": "We were just talking about John and speak of the devil, there he is.",
+      "meaning": "噂をすれば影（話題にしていた人が現れた時に使う）",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 28,
+      "expression": "Take a rain check",
+      "example": "I'm sorry, I can't join you for the movie tonight and need to take a rain check.",
+      "meaning": "またの機会にする（誘いを丁寧に断る）",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 29,
+      "expression": "Rule of thumb",
+      "example": "As a rule of thumb, we aim to keep meetings to no more than one hour.",
+      "meaning": "経験則、大まかな目安",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 30,
+      "expression": "Turn a blind eye",
+      "example": "The manager decided to turn a blind eye to the minor rule violation.",
+      "meaning": "見て見ぬふりをする",
+      "category": "Daily Conversation",
+      "session": 2
+    },
+    {
+      "id": 31,
+      "expression": "Get the ball rolling",
+      "example": "Let's get the ball rolling on the new marketing campaign as soon as possible.",
+      "meaning": "（プロジェクトなどを）始める、軌道に乗せる",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 32,
+      "expression": "Touch base",
+      "example": "Let's touch base next week to discuss progress on the project.",
+      "meaning": "（状況確認などのために）連絡を取る",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 33,
+      "expression": "On the same page",
+      "example": "We made a proposal to expand globally and the CEO is on the same page.",
+      "meaning": "（認識や理解が）一致している",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 34,
+      "expression": "Learning curve",
+      "example": "There is a steep learning curve for our new proprietary database, but once you master it, you'll find it significantly more efficient.",
+      "meaning": "学習曲線（新しいことを習得する過程やその難しさ）",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 35,
+      "expression": "Think outside the box",
+      "example": "To solve this problem, we need to think outside the box.",
+      "meaning": "既成概念にとらわれずに考える、独創的に考える",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 36,
+      "expression": "Win-win situation",
+      "example": "The deal is simple, we give them office space and they give us the new equipment... It sounds like a win-win situation.",
+      "meaning": "双方が利益を得る状況",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 37,
+      "expression": "The bottom line",
+      "example": "It's true that we're very short-handed, but the bottom line is we must still deliver the project on time.",
+      "meaning": "最終的な収益（純損益）、（議論の）結論・肝心な点",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 38,
+      "expression": "Call it a day",
+      "example": "I think we have spent enough time discussing this project. Let's call it a day.",
+      "meaning": "（その日の）仕事を切り上げる、終わりにする",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 39,
+      "expression": "Back to the drawing board",
+      "example": "The client hated our initial prototype, so it's back to the drawing board to find a completely different user interface.",
+      "meaning": "（失敗して）最初からやり直す、白紙に戻す",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 40,
+      "expression": "Go the extra mile",
+      "example": "Companies benefit from staff who go the extra mile.",
+      "meaning": "期待以上の努力をする、一層の努力をする",
+      "category": "Business",
+      "session": 2
+    },
+    {
+      "id": 41,
+      "expression": "Corner the market",
+      "example": "In only a short time, the company has been able to corner the high-definition television market.",
+      "meaning": "市場を独占する、圧倒的なシェアを握る",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 42,
+      "expression": "Get up to speed",
+      "example": "It didn't take me long to get up to speed with the new laws.",
+      "meaning": "（最新情報などを得て）事情に通じる、追いつく",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 43,
+      "expression": "Hands are tied",
+      "example": "I'd love to approve your request for additional staff, but until the board reviews our annual budget, my hands are tied.",
+      "meaning": "（規則などにより）どうすることもできない、手も足も出ない",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 44,
+      "expression": "In the loop",
+      "example": "Remember to keep me in the loop, please.",
+      "meaning": "（情報の）蚊帳の中で、事情を知って",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 45,
+      "expression": "By the book",
+      "example": "Our accountant does everything by the book so there are no problems in the future.",
+      "meaning": "規則通りに、定石通りに",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 46,
+      "expression": "Ballpark figure",
+      "example": "I don't need the exact cost now, just give me a ballpark figure for the project.",
+      "meaning": "概算、大まかな数字",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 47,
+      "expression": "Crunch the numbers",
+      "example": "Let's crunch the numbers before making a final decision on this investment.",
+      "meaning": "数値を計算する、データを処理する",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 48,
+      "expression": "Golden handcuffs",
+      "example": "The company uses stock options as golden handcuffs to retain top talent.",
+      "meaning": "（従業員を引き留めるための）金銭的な優遇措置",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 49,
+      "expression": "Cash cow",
+      "example": "Their accounting software has been the company's cash cow for over a decade.",
+      "meaning": "ドル箱、稼ぎ頭（安定して利益を生む商品や事業）",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 50,
+      "expression": "Get off the ground",
+      "example": "We finally got our business off the ground and opened our first store.",
+      "meaning": "（事業や計画が）順調にスタートする、軌道に乗る",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 51,
+      "expression": "Long shot",
+      "example": "Landing such a high-paying job is a long shot but I'm still going to give it a try.",
+      "meaning": "成功の望みが薄い試み、大穴",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 52,
+      "expression": "Bring to the table",
+      "example": "We need someone on the team who can bring project management experience to the table.",
+      "meaning": "（利益やスキルを）提供する、貢献する",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 53,
+      "expression": "Learn the ropes",
+      "example": "Sarah's promotion surprised everyone, but she'd spent two years learning the ropes.",
+      "meaning": "コツを覚える、仕事の手順を学ぶ",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 54,
+      "expression": "Red tape",
+      "example": "Our project is stalled because we ran into some red tape.",
+      "meaning": "お役所仕事、非効率的な手続き",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 55,
+      "expression": "Behind the scenes",
+      "example": "Do you have any idea how much hard work we've put in behind the scenes?",
+      "meaning": "舞台裏で、裏方で",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 56,
+      "expression": "Knuckle down",
+      "example": "We need to knuckle down and finish this report.",
+      "meaning": "真剣に取り組む、本腰を入れる",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 57,
+      "expression": "A hard sell",
+      "example": "The new pricing structure is going to be a hard sell to our existing clients.",
+      "meaning": "説得が難しいもの、売り込みにくいもの",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 58,
+      "expression": "Low-hanging fruit",
+      "example": "Let's tackle the low-hanging fruit first before moving on to more challenging objectives.",
+      "meaning": "容易に達成できる目標、簡単に手に入る利益",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 59,
+      "expression": "Burn the candle at both ends",
+      "example": "It's important to find a work-life balance and avoid burning the candle at both ends to prevent burnout.",
+      "meaning": "精力を使い果たす、朝から晩まで働き詰める",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 60,
+      "expression": "Twist someone's arm",
+      "example": "I wasn't planning on attending the gala, but my colleague managed to twist my arm by promising to introduce me to the keynote speaker.",
+      "meaning": "（人に）無理強いする、強力に説得する",
+      "category": "Business",
+      "session": 3
+    },
+    {
+      "id": 61,
+      "expression": "Sweeten the deal",
+      "example": "To sweeten the deal, the supplier offered to include free shipping.",
+      "meaning": "（取引条件を）さらに良くする、好条件を加える",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 62,
+      "expression": "Drive a hard bargain",
+      "example": "I wanted to pay less for the car but the salesman drove a hard bargain.",
+      "meaning": "激しく値切る、自身に有利な条件を強硬に主張する",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 63,
+      "expression": "Take it or leave it",
+      "example": "The highest salary we can offer you is $50,000 a year; take it or leave it.",
+      "meaning": "交渉の余地はない、嫌ならやめろ（最終提案）",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 64,
+      "expression": "Out of the question",
+      "example": "I'm sorry but borrowing my new car is out of the question.",
+      "meaning": "論外である、不可能である",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 65,
+      "expression": "Make a living",
+      "example": "Many people make a living by working in the finance industry.",
+      "meaning": "生計を立てる",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 66,
+      "expression": "Worth one's while",
+      "example": "Let me make it worth your while to work weekends; I'll pay you an extra $10 per hour.",
+      "meaning": "（時間や労力をかける）価値がある",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 67,
+      "expression": "Foot the bill",
+      "example": "The client insisted on upgrading their accommodation, but they'll have to foot the bill for any additional expenses.",
+      "meaning": "勘定を持つ、費用を負担する",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 68,
+      "expression": "Break the bank",
+      "example": "I'd love to buy that luxury car, but I'm not trying to break the bank.",
+      "meaning": "（所持金を超えるほど）非常に高価である、破産させる",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 69,
+      "expression": "State of the art",
+      "example": "Our new office building is equipped with state-of-the-art technology.",
+      "meaning": "最先端の、最高水準の",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 70,
+      "expression": "Play hardball",
+      "example": "The competitors are known for playing hardball in the market.",
+      "meaning": "強硬な手段に出る、手加減しない",
+      "category": "Business",
+      "session": 4
+    },
+    {
+      "id": 71,
+      "expression": "Common knowledge",
+      "example": "It's common knowledge that regular exercise improves mental health.",
+      "meaning": "常識、周知の事実",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 72,
+      "expression": "Knowledge is power",
+      "example": "Knowledge is power in competitive markets, and everyone needs to do their homework.",
+      "meaning": "知は力なり（知識や情報は有利に働く）",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 73,
+      "expression": "Food for thought",
+      "example": "Your proposal gave us a lot of food for thought.",
+      "meaning": "思考の糧、考える材料",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 74,
+      "expression": "Play devil's advocate",
+      "example": "I agreed with his plan, but I decided to play devil's advocate to see if he had thought of all the risks.",
+      "meaning": "（議論を深めるために）あえて反対意見を述べる",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 75,
+      "expression": "In the realm of",
+      "example": "In the realm of neuroscience, this study examines the effects of sleep deprivation on cognitive function.",
+      "meaning": "〜の領域において、〜の分野で",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 76,
+      "expression": "Lay the groundwork",
+      "example": "This paper lays the groundwork for future research by providing a comprehensive review of existing literature.",
+      "meaning": "基礎を築く、下準備をする",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 77,
+      "expression": "Bridge the gap",
+      "example": "This study aims to bridge the gap between theoretical models and practical applications.",
+      "meaning": "溝を埋める、隔たりをなくす",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 78,
+      "expression": "Shed light on",
+      "example": "This research sheds light on the impact of social media usage on mental health.",
+      "meaning": "（問題などに）光を当てる、解明する",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 79,
+      "expression": "Give rise to",
+      "example": "The emergence of new technologies has given rise to innovative approaches in the field.",
+      "meaning": "～を引き起こす、生じさせる",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 80,
+      "expression": "Pave the way",
+      "example": "This research paves the way for future advancements in cancer treatment.",
+      "meaning": "道を切り開く、先鞭をつける",
+      "category": "Academic",
+      "session": 4
+    },
+    {
+      "id": 81,
+      "expression": "Push the envelope",
+      "example": "This study pushes the envelope by exploring the potential of nanotechnology.",
+      "meaning": "限界に挑む、許容範囲を広げる",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 82,
+      "expression": "Stand on the shoulders of giants",
+      "example": "This research stands on the shoulders of giants by incorporating seminal works in the field.",
+      "meaning": "先人の業績に基づく（巨人の肩の上に立つ）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 83,
+      "expression": "Begging the question",
+      "example": "Peppers are the easiest vegetable to grow because I think peppers are the easiest vegetable to grow is an example of begging the question.",
+      "meaning": "論点先取（証明すべき結論を前提として使う誤謬）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 84,
+      "expression": "Straw man",
+      "example": "Arguing against a hyperbolic, inaccurate version of the opposition is known as a straw man argument.",
+      "meaning": "ストローマン論法（相手の主張を歪めて攻撃しやすくする誤謬）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 85,
+      "expression": "Slippery slope",
+      "example": "Claiming that specific consequences will inevitably follow an action without evidence is a slippery slope fallacy.",
+      "meaning": "滑りやすい坂論法（ある行動が連鎖的に悪い結果を招くと主張する誤謬）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 86,
+      "expression": "Ad hominem",
+      "example": "Instead of refuting the scientist's data, the media resorted to ad hominem attacks on his personal lifestyle.",
+      "meaning": "人身攻撃（議論の中身ではなく相手の人格を攻撃すること）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 87,
+      "expression": "Red herring",
+      "example": "Introducing an irrelevant point to shift focus is called a red herring.",
+      "meaning": "燻製ニシン（議論の焦点をそらすための無関係な話題）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 88,
+      "expression": "False dilemma",
+      "example": "Claiming there are only two options when more exist is a false dilemma.",
+      "meaning": "誤った二分法（選択肢が他にもあるのに二者択一を迫る誤謬）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 89,
+      "expression": "False cause (Correlation vs. Causation)",
+      "example": "Buying ice cream increases your risk of being bitten by a shark is a false cause fallacy; both happen in summer.",
+      "meaning": "誤った因果関係（相関関係を因果関係と混同すること）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 90,
+      "expression": "Hasty generalization",
+      "example": "Concluding that the entire school is unsafe based on a single minor incident is a hasty generalization.",
+      "meaning": "早急な一般化（不十分なサンプルから結論を急ぐこと）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 91,
+      "expression": "Bandwagon fallacy",
+      "example": "Claiming an action is right simply because it's popular is a bandwagon fallacy.",
+      "meaning": "衆人に訴える論証（みんながやっているから正しいとする誤謬）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 92,
+      "expression": "Confirmation bias",
+      "example": "Using the fallacy of confirmation bias is usually a sign that one has adopted some belief dogmatically.",
+      "meaning": "確証バイアス（自説に有利な情報ばかり集める傾向）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 93,
+      "expression": "Sunk cost fallacy",
+      "example": "Continuing a course of action because of the time or money already spent is known as the sunk cost fallacy.",
+      "meaning": "サンクコストの誤謬（埋没費用に囚われて合理的な判断ができないこと）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 94,
+      "expression": "Take with a grain of salt",
+      "example": "She's inclined to exaggerate, so you have to take what she says with a grain of salt.",
+      "meaning": "話半分に聞く、鵜呑みにしない",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 95,
+      "expression": "Navigate uncharted waters",
+      "example": "This research navigates uncharted waters by investigating the ethical implications of gene-editing.",
+      "meaning": "未知の領域を切り開く、未踏の分野に取り組む",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 96,
+      "expression": "Hard nut to crack",
+      "example": "I want to know what secret she's hiding, but she's a hard nut to crack.",
+      "meaning": "難問、手強い相手",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 97,
+      "expression": "The tip of the iceberg",
+      "example": "Exceptionally long drought periods are just the tip of the iceberg when it comes to climate change.",
+      "meaning": "氷山の一角",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 98,
+      "expression": "Bear fruit",
+      "example": "The conservation project has been ongoing for years, and now it's starting to bear fruit.",
+      "meaning": "成果を結ぶ、実を結ぶ",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 99,
+      "expression": "Draw the line",
+      "example": "I'm willing to negotiate on the service fees, but I have to draw the line at providing technical support for free.",
+      "meaning": "一線を引く、境界を定める（許容範囲を決める）",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 100,
+      "expression": "Rule of thumb",
+      "example": "A good rule of thumb for email etiquette is to respond within 24 hours.",
+      "meaning": "経験則、大まかな指針",
+      "category": "Academic",
+      "session": 5
+    },
+    {
+      "id": 101,
+      "expression": "Jump on the bandwagon",
+      "example": "Many people are jumping on the fitness bandwagon this year, inspired by their friends' healthy lifestyles.",
+      "meaning": "時流に乗る、勝ち馬に乗る（流行っていることや人気のある側につくこと）",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 102,
+      "expression": "Through thick and thin",
+      "example": "Roger and Sally made it to their 50th anniversary because they stood by each other through thick and thin.",
+      "meaning": "良い時も悪い時も、どんなことがあっても",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 103,
+      "expression": "On the ball",
+      "example": "Wow, you've already finished your assignments? They aren't due until next week. You're really on the ball.",
+      "meaning": "有能で、状況をよく把握して（機敏に反応できる状態）",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 104,
+      "expression": "Keep an eye on",
+      "example": "The security guard has to keep an eye on the surveillance cameras throughout the night.",
+      "meaning": "～を見張る、～に注意を払う",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 105,
+      "expression": "Head in the clouds",
+      "example": "Instead of focusing on the lecture, she often has her head in the clouds, daydreaming about her upcoming vacation.",
+      "meaning": "空想にふけっている、現実を見ていない",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 106,
+      "expression": "Kick the bucket",
+      "example": "He lived a long and fulfilling life before finally kicking the bucket at the age of 95.",
+      "meaning": "死ぬ（婉曲表現だが、かなり砕けた言い方）",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 107,
+      "expression": "Under one's thumb",
+      "example": "Despite being the boss, he keeps his employees under his thumb, making all the decisions himself.",
+      "meaning": "～の言いなりになって、～に支配されて",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 108,
+      "expression": "Put one's foot in one's mouth",
+      "example": "I really put my foot in my mouth when I accidentally revealed the surprise party before it happened.",
+      "meaning": "失言する、うっかりまずいことを言う",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 109,
+      "expression": "Stab someone in the back",
+      "example": "I can't believe she would cheat and stab me in the back like this! I really trusted her.",
+      "meaning": "人を裏切る（背中から刺す）",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 110,
+      "expression": "Lose your touch",
+      "example": "She used to be the best hairstylist in town, but she's really losing her touch.",
+      "meaning": "腕が落ちる、昔のような手腕が発揮できなくなる",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 111,
+      "expression": "Find your feet",
+      "example": "I only moved to France two months ago, so I'm still finding my feet.",
+      "meaning": "（新しい環境に）慣れる、独り立ちする",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 112,
+      "expression": "Spice things up",
+      "example": "Instead of just buying Sam a birthday gift, let's spice things up by taking him out for dinner.",
+      "meaning": "趣を添える、面白くする、活気づける",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 113,
+      "expression": "Cool as a cucumber",
+      "example": "My friend is nervous about taking his driving test, but I'm cool as a cucumber.",
+      "meaning": "非常に落ち着いている、冷静沈着である",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 114,
+      "expression": "Couch potato",
+      "example": "After my uncle retired from his job, he became a couch potato.",
+      "meaning": "カウチポテト（ソファーに座ってテレビばかり見ている怠惰な人）",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 115,
+      "expression": "In hot water",
+      "example": "Kevin is in hot water after committing tax fraud.",
+      "meaning": "苦境に立たされて、困ったことになって",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 116,
+      "expression": "Compare apples and oranges",
+      "example": "I'm not sure which I enjoy more—pottery or dancing. It's like comparing apples and oranges.",
+      "meaning": "（全く違うものを比較して）比較にならない",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 117,
+      "expression": "Not one's cup of tea",
+      "example": "Camping is really not my cup of tea, so I'm going to visit my friend in New York instead.",
+      "meaning": "好みではない、趣味に合わない",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 118,
+      "expression": "Eat like a bird",
+      "example": "Don't trouble yourself cooking such a big meal. I eat like a bird.",
+      "meaning": "小食である",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 119,
+      "expression": "Eat like a horse",
+      "example": "My mother has to cook a lot of food when my brother comes to visit. He eats like a horse.",
+      "meaning": "大食漢である、たくさん食べる",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 120,
+      "expression": "Butter someone up",
+      "example": "I'm going to butter up my mom so she lets me hang out with my friends later.",
+      "meaning": "おべっかを使う、ごまをする",
+      "category": "Daily Conversation",
+      "session": 6
+    },
+    {
+      "id": 121,
+      "expression": "Smart cookie",
+      "example": "It shouldn't be hard for a smart cookie like you to learn Spanish.",
+      "meaning": "頭の切れる人、賢い人",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 122,
+      "expression": "Packed like sardines",
+      "example": "Were you at the football game last night? We were packed like sardines in the stadium.",
+      "meaning": "すし詰め状態である（イワシの缶詰のようにぎっしり）",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 123,
+      "expression": "Bad apple",
+      "example": "John's the bad apple: he gets his friends to do dangerous and illegal things.",
+      "meaning": "集団に悪影響を及ぼす人、ろくでなし",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 124,
+      "expression": "Buy a lemon",
+      "example": "The car looked so new and shiny. I had no way of knowing I was buying a lemon.",
+      "meaning": "不良品（特に欠陥車）をつかまされる",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 125,
+      "expression": "Have a sweet tooth",
+      "example": "I definitely have a sweet tooth: I need dessert every night.",
+      "meaning": "甘党である",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 126,
+      "expression": "Full of beans",
+      "example": "Despite the long journey, the kids were full of beans when they arrived at the amusement park.",
+      "meaning": "元気いっぱいで、活気にあふれて",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 127,
+      "expression": "Sell like hotcakes",
+      "example": "The new smartphone is selling like hotcakes, with people lining up to get their hands on it.",
+      "meaning": "飛ぶように売れる",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 128,
+      "expression": "Out of the frying pan into the fire",
+      "example": "Leaving my stressful job only to join a company in financial trouble felt like jumping out of the frying pan into the fire.",
+      "meaning": "一難去ってまた一難（フライパンから出て火の中へ）",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 129,
+      "expression": "A storm is brewing",
+      "example": "She decided to go ahead with their wedding, even though all they've been doing lately is arguing. I can sense a storm is brewing.",
+      "meaning": "波乱の予感がする、雲行きが怪しい（悪いことが起ころうとしている）",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 130,
+      "expression": "Calm before the storm",
+      "example": "They had a bit of a honeymoon phase, but that was just the calm before the storm.",
+      "meaning": "嵐の前の静けさ",
+      "category": "Daily Conversation",
+      "session": 7
+    },
+    {
+      "id": 131,
+      "expression": "From the ground up",
+      "example": "Have you read the news about the enterprising 12-year-old who's building her business from the ground up?",
+      "meaning": "ゼロから、一から（完全に最初から作り上げる）",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 132,
+      "expression": "Overplay your hand",
+      "example": "My cousin overplayed his hand and ended up losing his job.",
+      "meaning": "自分を過大に見せる、調子に乗って失敗する（手持ちのカード以上に強く見せようとする）",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 133,
+      "expression": "Get down to brass tacks",
+      "example": "Now that everyone's here, let's get down to brass tacks.",
+      "meaning": "本題に入る、核心に触れる",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 134,
+      "expression": "Smooth sailing",
+      "example": "Once the company overcame the country's bureaucracy, it was smooth sailing from then on.",
+      "meaning": "順風満帆",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 135,
+      "expression": "The big picture",
+      "example": "I think his presentation was too long and detailed. He should've just given us the big picture.",
+      "meaning": "全体像、大局",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 136,
+      "expression": "Gray area",
+      "example": "You have many good points in your proposal but there's one gray area we need to discuss.",
+      "meaning": "グレーゾーン、曖昧な領域（白黒つけられない部分）",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 137,
+      "expression": "The wrong end of the stick",
+      "example": "Jackie's not in charge of this project… Mark is. Seems like you got the wrong end of the stick.",
+      "meaning": "勘違い、誤解（事態を正しく把握していないこと）",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 138,
+      "expression": "Walking papers",
+      "example": "Did you hear? The boss just gave Brett his walking papers!",
+      "meaning": "解雇通知",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 139,
+      "expression": "Back to square one",
+      "example": "I wish I'd saved my spreadsheet before the server crashed. Now I have to go back to square one.",
+      "meaning": "振り出しに戻る",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 140,
+      "expression": "Word of mouth",
+      "example": "I heard about it through word of mouth. Everybody kept telling me how great your products are!",
+      "meaning": "口コミ",
+      "category": "Business",
+      "session": 7
+    },
+    {
+      "id": 141,
+      "expression": "Generate buzz",
+      "example": "Before its summer release, the movie was already generating a lot of buzz in the media.",
+      "meaning": "話題を呼ぶ、評判になる（ざわめきを生み出す）",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 142,
+      "expression": "Meet up",
+      "example": "Since we have a few problems to discuss, let's meet up in my office.",
+      "meaning": "会う、集まる（カジュアルなミーティングなど）",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 143,
+      "expression": "Schedule a meeting",
+      "example": "Let's schedule a meeting for this Tuesday to discuss any problems.",
+      "meaning": "会議を予定に入れる、設定する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 144,
+      "expression": "There's no \"I\" in team",
+      "example": "There's no \"I\" in team; we failed at this project together.",
+      "meaning": "チームに「私」はない（個人の手柄ではなくチームワークが大事）",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 145,
+      "expression": "Team player",
+      "example": "I love doing projects with Kate because she's such a great team player.",
+      "meaning": "チームワークの良い人、協調性のある人",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 146,
+      "expression": "Step up to the plate",
+      "example": "After the sales numbers dropped last quarter, David really stepped up to the plate and turned things around for the company.",
+      "meaning": "責任を引き受ける、進んで難局にあたる",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 147,
+      "expression": "Pass the buck",
+      "example": "Josh lost us that client, but he tried to pass the buck to Samuel.",
+      "meaning": "責任転嫁する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 148,
+      "expression": "Form a team",
+      "example": "The first thing a project manager does is form a team of staff who are best for the project.",
+      "meaning": "チームを結成する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 149,
+      "expression": "Team up with",
+      "example": "Sometimes on a big project, you may need to team up with other companies.",
+      "meaning": "～と協力する、～と提携する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 150,
+      "expression": "Pitch in",
+      "example": "Everyone will have to pitch in their ideas. We need each team member to share five ideas at the meeting on Monday.",
+      "meaning": "協力する、手伝う（資金や労力を出し合う）",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 151,
+      "expression": "From day one",
+      "example": "We need to hire more people immediately. We've been short-handed from day one.",
+      "meaning": "最初から、初日から",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 152,
+      "expression": "The eleventh hour",
+      "example": "The project manager won't be pleased about them changing the design at the eleventh hour.",
+      "meaning": "土壇場、ギリギリの最後",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 153,
+      "expression": "Need it yesterday",
+      "example": "Where is that report? I need it yesterday. I'm going to be late for the meeting now.",
+      "meaning": "至急必要だ（昨日必要だった＝今すぐほしい）",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 154,
+      "expression": "ASAP",
+      "example": "Please tell Mr. Huang to call his client back ASAP.",
+      "meaning": "できるだけ早く (As Soon As Possible)",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 155,
+      "expression": "24/7",
+      "example": "This marketing project is killing me. I've been working 24/7 and it just won't end!",
+      "meaning": "24時間年中無休で、四六時中",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 156,
+      "expression": "Pencil it in",
+      "example": "Let's pencil it in and see closer to the date, ok?",
+      "meaning": "（予定を）仮に入れておく",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 157,
+      "expression": "Start from scratch",
+      "example": "Since we will be starting from scratch on this project, we will make the plan as we go along.",
+      "meaning": "最初からやり直す、ゼロから始める",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 158,
+      "expression": "Define the phases",
+      "example": "We must wait for the project team to define the phases before we can start work.",
+      "meaning": "段階（フェーズ）を定義する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 159,
+      "expression": "Set deadlines",
+      "example": "We have set deadlines for each phase except the design phase.",
+      "meaning": "締め切りを設定する",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 160,
+      "expression": "Meet the deadline",
+      "example": "We may have to work longer hours to meet the deadline.",
+      "meaning": "締め切りに間に合わせる",
+      "category": "Business",
+      "session": 8
+    },
+    {
+      "id": 161,
+      "expression": "Behind schedule",
+      "example": "When the project manager hears that the project is behind schedule, she will want to know the reason why.",
+      "meaning": "予定より遅れて",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 162,
+      "expression": "Ahead of schedule",
+      "example": "The project manager is happy that the project is ahead of schedule and thanked the team for their hard work.",
+      "meaning": "予定より早く",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 163,
+      "expression": "According to schedule",
+      "example": "If the project goes according to schedule, you can expect a nice bonus this year.",
+      "meaning": "予定通りに",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 164,
+      "expression": "On a shoestring",
+      "example": "It's going to be a challenge doing such a big project on a shoestring but we'll try our best.",
+      "meaning": "低予算で、わずかな資金で",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 165,
+      "expression": "Sleeping partner",
+      "example": "Oh, he doesn't really have any say in the way we work. He's just a sleeping partner.",
+      "meaning": "休眠パートナー、出資だけして経営に参加しないパートナー",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 166,
+      "expression": "Deep pockets",
+      "example": "Let's ask Mrs. Henderson for help. She has deep pockets.",
+      "meaning": "豊富な資金力",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 167,
+      "expression": "Go belly up",
+      "example": "That new restaurant closed down already because they went belly up.",
+      "meaning": "倒産する、失敗する（腹を上に向ける＝死んだ魚の状態）",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 168,
+      "expression": "Take a bath",
+      "example": "The landlord is taking a bath on his property. He has no tenants!",
+      "meaning": "大損をする",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 169,
+      "expression": "Tighten your belt",
+      "example": "We're going to have to tighten our belts. Unfortunately, our sales last month weren't as nearly as high as usual.",
+      "meaning": "財布の紐を締める、節約する",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 170,
+      "expression": "A slice of the pie",
+      "example": "She wants a bigger slice of the pie because she knows she's the best employee.",
+      "meaning": "利益の分配、取り分",
+      "category": "Business",
+      "session": 9
+    },
+    {
+      "id": 171,
+      "expression": "Can't make heads or tails of it",
+      "example": "The new software interface was so poorly designed that even experienced users couldn't make heads or tails of the navigation system.",
+      "meaning": "さっぱりわけがわからない、ちんぷんかんぷんである",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 172,
+      "expression": "Know something backwards and forwards",
+      "example": "The consultant knew the regulatory framework backwards and forwards, which saved our company months of compliance delays.",
+      "meaning": "～を熟知している、裏の裏まで知っている",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 173,
+      "expression": "Do your homework",
+      "example": "Before investing in cryptocurrency, she did her homework by studying market trends, regulatory changes, and technology fundamentals for six months.",
+      "meaning": "（事前の）下調べをする、準備を怠らない",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 174,
+      "expression": "Under one's belt",
+      "example": "With fifteen successful product launches under her belt, Maria was the obvious choice to lead the new division.",
+      "meaning": "経験を積んで、実績として持っている",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 175,
+      "expression": "Two heads are better than one",
+      "example": "The architectural firm's most innovative designs emerge from intensive collaboration sessions where two heads are better than one principle guides every project phase.",
+      "meaning": "三人寄れば文殊の知恵（一人より二人の方が良い考えが浮かぶ）",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 176,
+      "expression": "Pick someone's brain",
+      "example": "Before launching her startup, Jennifer picked the brains of three successful entrepreneurs who'd navigated similar challenges.",
+      "meaning": "（専門家などの）知恵を借りる、話を聞く",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 177,
+      "expression": "Great minds think alike",
+      "example": "When three different consulting firms recommended identical restructuring strategies, the CEO concluded that great minds think alike and moved forward confidently.",
+      "meaning": "偉人の考えは一致する（同じ考えですね、と同意する際に使う）",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 178,
+      "expression": "Equivocation",
+      "example": "An equivocation is a statement crafted to mislead or confuse readers or listeners by using multiple meanings or interpretations of a word.",
+      "meaning": "曖昧語法（複数の意味に取れる言葉を使って誤魔化すこと）",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 179,
+      "expression": "Appeal to authority",
+      "example": "If you want to be healthy, you need to stop drinking coffee. I read it on a fitness blog. This is an example of appeal to authority.",
+      "meaning": "権威に訴える論証（専門外の権威などを根拠にすること）",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 180,
+      "expression": "Appeal to ignorance",
+      "example": "There must be fairies living in our attic because nobody's ever proven that there aren't fairies living in our attic. This is an appeal to ignorance.",
+      "meaning": "無知に訴える論証（証明されていないから正しい/間違いであると主張すること）",
+      "category": "Academic",
+      "session": 9
+    },
+    {
+      "id": 181,
+      "expression": "Circular argument",
+      "example": "Peppers are the easiest vegetable to grow because I think peppers are the easiest vegetable to grow. This is a circular argument.",
+      "meaning": "循環論法（結論を前提として使ってしまうこと）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 182,
+      "expression": "Appeal to pity",
+      "example": "I know I should have been on time for the interview, but I woke up late and felt really bad about it... This is an appeal to pity.",
+      "meaning": "同情に訴える論証",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 183,
+      "expression": "Causal fallacy",
+      "example": "When ice cream sales are up, so are shark attacks. Therefore, buying ice cream increases your risk of being bitten by a shark. This is a causal fallacy.",
+      "meaning": "因果関係の誤謬（証明できない因果関係を暗示すること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 184,
+      "expression": "Appeal to hypocrisy",
+      "example": "You don't have enough experience to be the new leader. Neither do you! This is an appeal to hypocrisy.",
+      "meaning": "お前だって論法（相手の言行不一致を指摘して主張を退けること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 185,
+      "expression": "The fallacy fallacy",
+      "example": "Recognising that Amanda had committed a fallacy in arguing that we should eat healthy food because a nutritionist said it was popular, Alyse said we should therefore eat bacon double cheeseburgers every day. This is the fallacy fallacy.",
+      "meaning": "誤謬の誤謬（論証に誤謬があるからといって、結論が誤りであるとは限らない）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 186,
+      "expression": "Personal incredulity",
+      "example": "Because you found something difficult to understand, or are unaware of how it works, you made out like it's probably not true. This is personal incredulity.",
+      "meaning": "個人的な懐疑（自分が理解できないからといって、それが真実ではないとすること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 187,
+      "expression": "Special pleading",
+      "example": "Edward explained this saying that one had to have faith in his abilities for them to work. This is special pleading.",
+      "meaning": "特別弁論（自分の主張が誤りだと示された時に、例外を作ったりゴールを動かしたりすること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 188,
+      "expression": "Loaded question",
+      "example": "Grace asked in an inquisitive tone whether Helen was still having problems with her drug habit. This is a loaded question.",
+      "meaning": "誘導尋問（有罪に見えるような前提を含んだ質問）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 189,
+      "expression": "Burden of proof",
+      "example": "Bertrand declares that a teapot is... in orbit... and that because no one can prove him wrong, his claim is therefore a valid one. This shifts the burden of proof.",
+      "meaning": "立証責任（主張する側が証明する責任があること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 190,
+      "expression": "Ambiguity",
+      "example": "The judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't have to pay them because the sign said 'Fine for parking here'. This relies on ambiguity.",
+      "meaning": "曖昧さ（言葉の多義性を使って誤解させること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 191,
+      "expression": "The gambler's fallacy",
+      "example": "Red had come up six times in a row on the roulette wheel, so Greg knew that it was close to certain that black would be next up. This is the gambler's fallacy.",
+      "meaning": "ギャンブラーの誤謬（過去の独立した事象が未来の確率に影響すると考えること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 192,
+      "expression": "Composition/division",
+      "example": "Daniel reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. This is the fallacy of composition.",
+      "meaning": "合成・分割の誤謬（部分の性質を全体に、またはその逆に適用すること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 193,
+      "expression": "No true Scotsman",
+      "example": "Angus yells that no true Scotsman sugars his porridge. This is the no true Scotsman fallacy.",
+      "meaning": "「真のスコットランド人」論法（反例が出された時に、定義を勝手に変えて批判をかわすこと）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 194,
+      "expression": "Genetic fallacy",
+      "example": "The senator said that we should all be very wary of the things we hear in the media, because we all know how very unreliable the media can be. This avoids the argument by shifting focus onto origins, a genetic fallacy.",
+      "meaning": "発生論の誤謬（起源や由来に基づいて良い悪いを判断すること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 195,
+      "expression": "Black-or-white",
+      "example": "The Supreme Leader told the people they were either on his side, or they were on the side of the enemy. This is a black-or-white fallacy.",
+      "meaning": "白黒思考、誤った二分法",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 196,
+      "expression": "Appeal to nature",
+      "example": "The medicine man... said that it was only natural that people should be wary of 'artificial' medicines such as antibiotics. This is an appeal to nature.",
+      "meaning": "自然に訴える論証（自然なものは良い、という主張）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 197,
+      "expression": "Anecdotal evidence",
+      "example": "Jason said that his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read... This relies on anecdotal evidence.",
+      "meaning": "逸話的証拠（個人的な経験や孤立した例を根拠にすること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 198,
+      "expression": "The Texas sharpshooter",
+      "example": "The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most units, three of them are in the top ten healthiest countries on Earth... This is the Texas sharpshooter fallacy.",
+      "meaning": "テキサスの狙撃兵（データを選り好みしてパターンがあるように見せること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 199,
+      "expression": "Middle ground",
+      "example": "Holly said that vaccinations caused autism in children, but her scientifically well-read friend Caleb said that this claim had been debunked... Alice offered a compromise that vaccinations must cause some autism, just not all autism. This is the middle ground fallacy.",
+      "meaning": "中間説の誤謬（妥協点や中間が必ず正しいと主張すること）",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 200,
+      "expression": "A moot point",
+      "example": "Whether the previous CEO was to blame for the decline is now a moot point; the board must focus entirely on the upcoming restructuring.",
+      "meaning": "議論の余地がある点、または今となっては議論しても無意味な点",
+      "category": "Academic",
+      "session": 10
+    },
+    {
+      "id": 201,
+      "expression": "Keep in touch",
+      "example": "Even though my mom and I live in different countries now, we make an effort to keep in touch through video calls.",
+      "meaning": "連絡を取り合う",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 202,
+      "expression": "Get out of hand",
+      "example": "The party got out of hand when too many people showed up and things became rowdy.",
+      "meaning": "収拾がつかなくなる、手に負えなくなる",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 203,
+      "expression": "On top of the world",
+      "example": "Assuming you complete a difficult task at work and get promoted, you can say you're on top of the world.",
+      "meaning": "有頂天で、最高の気分で",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 204,
+      "expression": "Stumble across",
+      "example": "I stumbled across an old diary in the basement when cleaning out my storage.",
+      "meaning": "偶然見つける、出くわす",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 205,
+      "expression": "Cry over spilled milk",
+      "example": "There's no use crying over spilled milk; let's focus on finding a solution.",
+      "meaning": "覆水盆に返らず（済んだことを悔やんでも仕方がない）",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 206,
+      "expression": "Over the hill",
+      "example": "I had to slow down after my knee surgery, but I don't think I'm over the hill just yet.",
+      "meaning": "全盛期を過ぎて、峠を越えて",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 207,
+      "expression": "A drop in the bucket",
+      "example": "Donating a few dollars to charity is good, but it's just a drop in the bucket compared to the overall need.",
+      "meaning": "焼け石に水、大海の一滴（全体に比べてごくわずかな量）",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 208,
+      "expression": "Born with a silver spoon in one's mouth",
+      "example": "John was born with a silver spoon in his mouth, so he doesn't know what it's like to work hard.",
+      "meaning": "裕福な家に生まれる",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 209,
+      "expression": "From rags to riches",
+      "example": "Jim Carrey went from rags to riches. He was once living in a van, but eventually became one of the highest-paid comedians in the world.",
+      "meaning": "無一文から大金持ちへ（立身出世）",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 210,
+      "expression": "Have sticky fingers",
+      "example": "The manager fired the cashier because he had sticky fingers. He stole more than $200 in a month.",
+      "meaning": "手癖が悪い、盗み癖がある",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 211,
+      "expression": "Close-fisted",
+      "example": "Carl is so close-fisted, he won't even buy snacks for the Christmas party.",
+      "meaning": "ケチな、財布の紐が固い",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 212,
+      "expression": "Go Dutch",
+      "example": "Usually we go Dutch when we eat out, but this time I paid for her food since it was her birthday.",
+      "meaning": "割り勘にする",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 213,
+      "expression": "Living hand to mouth",
+      "example": "The family has been living hand to mouth ever since their father lost his job.",
+      "meaning": "その日暮らしをする、自転車操業である",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 214,
+      "expression": "Loaded",
+      "example": "Billy paid his Harvard Law School tuition with cash. His family is loaded.",
+      "meaning": "（金持ちで）裕福な、大金を持っている",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 215,
+      "expression": "All ears",
+      "example": "When the teacher mentioned a surprise, the students were all ears.",
+      "meaning": "全身を耳にして、熱心に聞いて",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 216,
+      "expression": "Heart of gold",
+      "example": "Despite facing hardships, she has a heart of gold and always helps those in need.",
+      "meaning": "優しい心、寛大な心",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 217,
+      "expression": "Eyeball it",
+      "example": "I've made this recipe often, so I didn't bother to measure out a cup of rice; I just eyeballed it.",
+      "meaning": "目分量でやる、大まかに見積もる",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 218,
+      "expression": "The icing on the cake",
+      "example": "Winning the championship was great, but getting a scholarship was the icing on the cake.",
+      "meaning": "さらに嬉しいこと、花を添えるもの（良いことにさらに良いことが重なる）",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 219,
+      "expression": "When it rains, it pours",
+      "example": "First he was laid off, then his wife got into a car accident. When it rains, it pours.",
+      "meaning": "降れば土砂降り（悪いことは重なるものだ／泣きっ面に蜂）",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 220,
+      "expression": "Chasing rainbows",
+      "example": "He's not very artistic, but he insists on being a professional painter. He's always chasing rainbows.",
+      "meaning": "叶わぬ夢を追う、不可能なことを追い求める",
+      "category": "Daily Conversation",
+      "session": 11
+    },
+    {
+      "id": 221,
+      "expression": "Come rain or shine",
+      "example": "We'll have the picnic, come rain or shine; I've been looking forward to it for weeks.",
+      "meaning": "何があっても、どんな天気でも",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 222,
+      "expression": "Bury (one's) head in the sand",
+      "example": "Stop burying your head in the sand. You haven't been happy with him for years, so why are you staying together?",
+      "meaning": "現実から目を背ける、見て見ぬ振りをする",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 223,
+      "expression": "Let the dust settle",
+      "example": "You just received big news. Let the dust settle before you make any decisions.",
+      "meaning": "事態が落ち着くのを待つ、ほとぼりが冷めるのを待つ",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 224,
+      "expression": "Clear as mud",
+      "example": "He's a great scientist, but I find his explanations in class are as clear as mud.",
+      "meaning": "全くわけがわからない、不明瞭である（皮肉として使われる）",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 225,
+      "expression": "Between a rock and a hard place",
+      "example": "I can understand why she couldn't make up her mind about what to do. She's really between a rock and a hard place.",
+      "meaning": "板挟みになって、進退窮まって（どちらを選んでも悪い結果になる）",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 226,
+      "expression": "Nip (something) in the bud",
+      "example": "Managers should know how to nip performance issues in the bud, or they'll only get worse.",
+      "meaning": "蕾のうちに摘み取る、未然に防ぐ",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 227,
+      "expression": "Offer an olive branch",
+      "example": "After years of rivalry with her cousin, she decided to hold out an olive branch and invite her to lunch.",
+      "meaning": "和解を申し出る",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 228,
+      "expression": "Turn over a new leaf",
+      "example": "After the difficult breakup, she decided to turn over a new leaf and focus on self-improvement.",
+      "meaning": "心を入れ替える、再出発する",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 229,
+      "expression": "Give someone the cold shoulder",
+      "example": "Margie and Steve used to be close friends, but now every time they meet, she gives him the cold shoulder.",
+      "meaning": "よそよそしくする、無視する",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 230,
+      "expression": "Keep one's fingers crossed",
+      "example": "Jane wasn't sure that she had passed the test, but she was keeping her fingers crossed.",
+      "meaning": "幸運を祈る",
+      "category": "Daily Conversation",
+      "session": 12
+    },
+    {
+      "id": 231,
+      "expression": "Burn rate",
+      "example": "With our current burn rate, we'll need additional funding within six months.",
+      "meaning": "資金燃焼率（ベンチャー企業などが資金を使い果たす速さ）",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 232,
+      "expression": "Bang for your buck",
+      "example": "This marketing strategy provides the most bang for your buck.",
+      "meaning": "費用対効果",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 233,
+      "expression": "Put all one's eggs in one basket",
+      "example": "We shouldn't put all our eggs in one basket by focusing only on one product line.",
+      "meaning": "一つのことに全てを賭ける（リスク分散をしない）",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 234,
+      "expression": "Raise the bar",
+      "example": "Our competitors have raised the bar with their new service offerings.",
+      "meaning": "基準を引き上げる、ハードルを上げる",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 235,
+      "expression": "Hit the ground running",
+      "example": "The new marketing director hit the ground running and implemented three new campaigns in her first week.",
+      "meaning": "（新しい活動などを）順調に滑り出す、即戦力として活躍する",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 236,
+      "expression": "Give the green light",
+      "example": "We can't start the project until management gives the green light.",
+      "meaning": "許可を出す、ゴーサインを出す",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 237,
+      "expression": "Kick off",
+      "example": "As soon as we kick off the project, we will be very busy.",
+      "meaning": "開始する、立ち上げる（プロジェクトやイベントなど）",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 238,
+      "expression": "Fifty-fifty",
+      "example": "Since I'm as busy as you are, let's split the work for this project fifty-fifty.",
+      "meaning": "五分五分、山分け",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 239,
+      "expression": "Run around in circles",
+      "example": "The deadline is coming up, but we've been running around in circles because the client keeps changing their mind about the design.",
+      "meaning": "堂々巡りをする、無駄な努力をする（進歩がない）",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 240,
+      "expression": "Keep an eye on the ball",
+      "example": "When it comes to business negotiations, you really need to keep an eye on the ball.",
+      "meaning": "注意を怠らない、目的に集中する",
+      "category": "Business",
+      "session": 12
+    },
+    {
+      "id": 241,
+      "expression": "Go down the drain",
+      "example": "If this sales campaign doesn't succeed, all our hard work will go down the drain.",
+      "meaning": "無駄になる、水泡に帰す",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 242,
+      "expression": "Above board",
+      "example": "We only do things above board here. If you want a job, you need to apply like everyone else.",
+      "meaning": "公明正大で、隠し事なく",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 243,
+      "expression": "Put a plan into action",
+      "example": "If we put this plan into action, we may need more time and more people.",
+      "meaning": "計画を実行に移す",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 244,
+      "expression": "Plan ahead",
+      "example": "The project manager's advice is to plan ahead so that the project will go smoothly.",
+      "meaning": "前もって計画を立てる",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 245,
+      "expression": "Tasked with",
+      "example": "Your team has been tasked with finding out why there are so many customer complaints.",
+      "meaning": "～という任務を課される",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 246,
+      "expression": "Outsource",
+      "example": "Since the project team is busy, it might be a good idea to outsource some tasks to another company.",
+      "meaning": "外部委託する、外注する",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 247,
+      "expression": "Wrap up",
+      "example": "Okay, everyone, let's check all the paperwork and wrap up this project.",
+      "meaning": "（会議やプロジェクトを）仕上げる、終える",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 248,
+      "expression": "Deliver the project",
+      "example": "If we work efficiently, we should be able to deliver the project on time.",
+      "meaning": "プロジェクトを納品する",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 249,
+      "expression": "Move the goalposts",
+      "example": "Every time we meet their requirements, they move the goalposts and demand something new.",
+      "meaning": "（不当に）条件を変更する、ゴールポストを動かす",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 250,
+      "expression": "Get your foot in the door",
+      "example": "Even though it's an unpaid internship, it will help you get your foot in the door at a major company.",
+      "meaning": "（業界などに）足がかりを得る、糸口をつかむ",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 251,
+      "expression": "Cutting edge",
+      "example": "Our research team is working on cutting edge technology that will revolutionize the industry.",
+      "meaning": "最先端の",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 252,
+      "expression": "Game changer",
+      "example": "This new software is a real game changer for our productivity.",
+      "meaning": "形勢を一変させるもの、革新的なもの",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 253,
+      "expression": "Leverage",
+      "example": "We can leverage our existing customer base to launch this new product successfully.",
+      "meaning": "～を活用する、てこ入れする",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 254,
+      "expression": "Circle back",
+      "example": "Let's table this discussion for now and circle back to it next week.",
+      "meaning": "後で戻る、改めて議論する",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 255,
+      "expression": "Take it offline",
+      "example": "This is getting too detailed for this meeting. Let's take it offline and discuss separately.",
+      "meaning": "（会議の場を離れて）別途話し合う",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 256,
+      "expression": "Run it up the flagpole",
+      "example": "That's an interesting idea. Let me run it up the flagpole and see what management thinks.",
+      "meaning": "（提案を）上層部に諮る、試しに提案してみる",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 257,
+      "expression": "In the pipeline",
+      "example": "We have several new products in the pipeline that should launch next quarter.",
+      "meaning": "準備中で、計画されて",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 258,
+      "expression": "Bring someone up to speed",
+      "example": "Let me bring you up to speed on what happened at yesterday's meeting.",
+      "meaning": "（人に）最新情報を伝える",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 259,
+      "expression": "Get the show on the road",
+      "example": "We've planned enough. Let's get the show on the road and start implementing.",
+      "meaning": "始める、取り掛かる",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 260,
+      "expression": "Par for the course",
+      "example": "Delays in government approvals are par for the course in this industry.",
+      "meaning": "当然のこと、予想通り",
+      "category": "Business",
+      "session": 13
+    },
+    {
+      "id": 261,
+      "expression": "Reach out",
+      "example": "I'll reach out to the client tomorrow to discuss their concerns.",
+      "meaning": "連絡を取る、接触する",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 262,
+      "expression": "Loop in",
+      "example": "Make sure to loop in the finance team before making any budget decisions.",
+      "meaning": "情報共有する、巻き込む",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 263,
+      "expression": "Push back",
+      "example": "The deadline is unrealistic. We need to push back and negotiate for more time.",
+      "meaning": "抵抗する、延期を求める",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 264,
+      "expression": "Table a discussion",
+      "example": "We don't have enough information yet. Let's table this discussion until next month.",
+      "meaning": "議論を棚上げにする、後回しにする",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 265,
+      "expression": "Low ball",
+      "example": "They tried to low ball us with their initial offer, but we held firm on our price.",
+      "meaning": "（故意に）低い見積もりを出す",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 266,
+      "expression": "Seal the deal",
+      "example": "After months of negotiations, we finally sealed the deal with our biggest client.",
+      "meaning": "契約を成立させる",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 267,
+      "expression": "Window of opportunity",
+      "example": "We have a small window of opportunity to enter this market before competitors do.",
+      "meaning": "好機、チャンスの期間",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 268,
+      "expression": "Move the needle",
+      "example": "These small changes won't move the needle. We need a major strategy shift.",
+      "meaning": "大きな影響を与える、状況を変える",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 269,
+      "expression": "Take ownership",
+      "example": "You need to take ownership of this problem and see it through to resolution.",
+      "meaning": "責任を持つ",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 270,
+      "expression": "Drink the Kool-Aid",
+      "example": "He's completely drunk the Kool-Aid on this new management philosophy.",
+      "meaning": "盲信する、無批判に信じ込む",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 271,
+      "expression": "Boil the ocean",
+      "example": "Let's not try to boil the ocean. We need to focus on achievable goals.",
+      "meaning": "不可能なことをしようとする、手を広げすぎる",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 272,
+      "expression": "Peel back the onion",
+      "example": "As we peel back the onion on this issue, we're discovering more complexity than expected.",
+      "meaning": "段階的に詳しく調べる、深掘りする",
+      "category": "Business",
+      "session": 14
+    },
+    {
+      "id": 273,
+      "expression": "Connect the dots",
+      "example": "Once you connect the dots, you'll see how all these events are related.",
+      "meaning": "つながりを見出す、全体像を理解する",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 274,
+      "expression": "Paradigm shift",
+      "example": "The internet caused a paradigm shift in how we communicate and do business.",
+      "meaning": "パラダイムシフト、発想の転換",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 275,
+      "expression": "Prove the rule",
+      "example": "The exception proves the rule that most successful startups have strong founding teams.",
+      "meaning": "例外が規則を証明する",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 276,
+      "expression": "Apples to apples",
+      "example": "To make an apples to apples comparison, we need to use the same metrics for both products.",
+      "meaning": "同条件での比較",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 277,
+      "expression": "Chicken and egg",
+      "example": "It's a chicken and egg problem: we need users to attract investors, but we need investment to get users.",
+      "meaning": "因果関係が不明瞭な問題",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 278,
+      "expression": "Devil is in the details",
+      "example": "The concept sounds great, but the devil is in the details of implementation.",
+      "meaning": "細部に落とし穴がある",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 279,
+      "expression": "Reinvent the wheel",
+      "example": "There's no need to reinvent the wheel. Let's use the existing framework and modify it.",
+      "meaning": "既にあるものを一から作り直す（無駄な努力）",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 280,
+      "expression": "Silver bullet",
+      "example": "There's no silver bullet for climate change; we need multiple approaches.",
+      "meaning": "特効薬、万能薬",
+      "category": "Academic",
+      "session": 14
+    },
+    {
+      "id": 281,
+      "expression": "Change the narrative",
+      "example": "The campaign successfully changed the narrative around renewable energy.",
+      "meaning": "物語を変える、認識を変える",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 282,
+      "expression": "Cherry pick",
+      "example": "You can't cherry pick data to support your hypothesis and ignore contradictory evidence.",
+      "meaning": "都合の良いものだけを選ぶ",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 283,
+      "expression": "Correlation does not imply causation",
+      "example": "Just because ice cream sales and drowning incidents both increase in summer doesn't mean one causes the other—correlation does not imply causation.",
+      "meaning": "相関関係は因果関係を意味しない",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 284,
+      "expression": "Elephant in the room",
+      "example": "The elephant in the room is that our product is significantly more expensive than competitors'.",
+      "meaning": "見て見ぬふりをされている明白な問題",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 285,
+      "expression": "Frame the debate",
+      "example": "By framing the debate around innovation rather than cost, we gained support for the proposal.",
+      "meaning": "議論の枠組みを設定する",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 286,
+      "expression": "In a vacuum",
+      "example": "You can't make this decision in a vacuum; you need to consider the broader market context.",
+      "meaning": "真空状態で、他の要因を考慮せずに",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 287,
+      "expression": "Level the playing field",
+      "example": "These new regulations aim to level the playing field between large corporations and small businesses.",
+      "meaning": "条件を平等にする、公平な競争環境を作る",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 288,
+      "expression": "Moving target",
+      "example": "Consumer preferences are a moving target, constantly evolving with technology and trends.",
+      "meaning": "変化し続ける目標、動く的",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 289,
+      "expression": "Null hypothesis",
+      "example": "Our experiment failed to reject the null hypothesis, suggesting no significant difference between the groups.",
+      "meaning": "帰無仮説",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 290,
+      "expression": "Peer review",
+      "example": "The study underwent rigorous peer review before being published in the journal.",
+      "meaning": "査読、同業者による審査",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 291,
+      "expression": "Qualitative vs. quantitative",
+      "example": "We need both qualitative feedback and quantitative metrics to fully understand customer satisfaction.",
+      "meaning": "定性的 対 定量的",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 292,
+      "expression": "Sample size",
+      "example": "The sample size was too small to draw statistically significant conclusions.",
+      "meaning": "サンプルサイズ、標本の大きさ",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 293,
+      "expression": "Scope creep",
+      "example": "We need to prevent scope creep by clearly defining project boundaries at the outset.",
+      "meaning": "スコープの拡大（プロジェクトの範囲が徐々に広がること）",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 294,
+      "expression": "Tipping point",
+      "example": "We've reached a tipping point where climate action is no longer optional but necessary.",
+      "meaning": "転換点、臨界点",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 295,
+      "expression": "Unpack",
+      "example": "Let's unpack this concept and examine each component individually.",
+      "meaning": "詳しく分析する、解きほぐす",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 296,
+      "expression": "Validate",
+      "example": "We need more data to validate our initial findings before publishing.",
+      "meaning": "検証する、妥当性を確認する",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 297,
+      "expression": "Zero-sum game",
+      "example": "Negotiations don't have to be a zero-sum game; we can find solutions that benefit both parties.",
+      "meaning": "ゼロサムゲーム（一方の利益が他方の損失になる状況）",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 298,
+      "expression": "Apples and oranges",
+      "example": "Comparing these two studies is like comparing apples and oranges—they used completely different methodologies.",
+      "meaning": "全く異なるもの同士（比較できない）",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 299,
+      "expression": "Baseline",
+      "example": "We need to establish a baseline before implementing any changes so we can measure impact.",
+      "meaning": "基準線、ベースライン",
+      "category": "Academic",
+      "session": 15
+    },
+    {
+      "id": 300,
+      "expression": "Control group",
+      "example": "The control group received a placebo while the experimental group received the actual treatment.",
+      "meaning": "対照群、コントロールグループ",
+      "category": "Academic",
+      "session": 15
+    }
+  ]
+}
